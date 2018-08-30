@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+events.csv
+*.pyc
+.idea/
