@@ -1,4 +1,4 @@
 # 7506-DATOS-TP1
 TP1 de Organizacion de Datos
 
-Kernel en kaggle: https://www.kaggle.com/fransic/tp1-organizacion-de-datos-75-06/notebook?scriptVersionId=5968423
+Kernel en kaggle: https://www.kaggle.com/fransic/tp1-organizacion-de-datos-75-06
