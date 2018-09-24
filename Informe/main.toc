@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Procesamiento y an\IeC {\'a}lisis de datos}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Datos utilizados}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Sobre la empresa}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Lenguajes y librer\IeC {\'\i }as utilizados}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Repositorio de Github}{3}{subsection.1.4}
+\contentsline {section}{\numberline {2}An\IeC {\'a}lisis temporal}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Distribuci\IeC {\'o}n de eventos por hora}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Tipos de eventos por hora}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Evoluci\IeC {\'o}n de la cantidad de eventos a lo largo del mes}{7}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Distribuci\IeC {\'o}n de compras por hora del d\IeC {\'\i }a y d\IeC {\'\i }a del mes}{9}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Distribuci\IeC {\'o}n de eventos por d\IeC {\'\i }a de la semana}{10}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Distribuci\IeC {\'o}n de compras por d\IeC {\'\i }a de la semana}{11}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Evoluci\IeC {\'o}n de la cantidad de eventos a lo largo del a\IeC {\~n}o}{12}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8} Evoluci\IeC {\'o}n de la cantidad de compras a lo largo del a\IeC {\~n}o}{13}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Usuarios nuevos}{15}{subsection.2.9}
+\contentsline {section}{\numberline {3}An\IeC {\'a}lisis de eventos}{16}{section.3}
+\contentsline {subsection}{\numberline {3.1}Cantidad de eventos por usuario}{16}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Eventos generados por usuarios}{19}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Modelos m\IeC {\'a}s vendidos}{20}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Capacidad de los equipos}{24}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Compras por condici\IeC {\'o}n}{26}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Cantidad de eventos por tipo de dispositivo}{28}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Navegadores preferidos}{28}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Proporci\IeC {\'o}n de usuarios que ingresan por un buscador }{30}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}Buscadores m\IeC {\'a}s utilizados}{30}{subsection.3.9}
+\contentsline {section}{\numberline {4}An\IeC {\'a}lisis Geogr\IeC {\'a}fico}{31}{section.4}
+\contentsline {subsection}{\numberline {4.1}Ciudades con m\IeC {\'a}s usuarios}{31}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Ciudades con m\IeC {\'a}s eventos}{32}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Pa\IeC {\'\i }ses con m\IeC {\'a}s usuarios}{34}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Pa\IeC {\'\i }ses con m\IeC {\'a}s eventos}{35}{subsection.4.4}
+\contentsline {section}{\numberline {5}An\IeC {\'a}lisis del usuario}{38}{section.5}
+\contentsline {subsection}{\numberline {5.1}Cantidad de productos vistos por persona}{40}{subsection.5.1}
+\contentsline {section}{\numberline {6}Conclusiones generales}{41}{section.6}
